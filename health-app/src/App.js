@@ -23,7 +23,7 @@ function App() {
                 <a className="nav-link" href="#">Login / Register <span className="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="btn btn-primary" href="#">I am a Doctor</a>
+                <a class="btn btn-primary" href="#">I am a Patient</a>
               </li>
             </ul>
           </div>
